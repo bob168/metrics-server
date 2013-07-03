@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 7 (MacOS X Default)"/>
+	<classpathentry kind="lib" path="/Users/borongzhou/.m2/repository/org/eclipse/jetty/jetty-server/9.0.0.RC1/jetty-server-9.0.0.RC1.jar" sourcepath="/Users/borongzhou/.m2/repository/org/eclipse/jetty/jetty-server/9.0.0.RC1/jetty-server-9.0.0.RC1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/borongzhou/.m2/repository/org/eclipse/jetty/jetty-util/9.0.0.RC1/jetty-util-9.0.0.RC1.jar" sourcepath="/Users/borongzhou/.m2/repository/org/eclipse/jetty/jetty-util/9.0.0.RC1/jetty-util-9.0.0.RC1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/borongzhou/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/borongzhou/.m2/repository/org/eclipse/jetty/jetty-http/9.0.0.RC1/jetty-http-9.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="/Users/borongzhou/.m2/repository/org/eclipse/jetty/jetty-io/9.0.0.RC1/jetty-io-9.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="/Users/borongzhou/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

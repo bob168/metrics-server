@@ -1,0 +1,74 @@
+[
+	{
+		"score":{
+			"accountId":"0013000000AE8id",
+			"accountName":"Deb Shops, Inc.",
+			"userId":"Larry Joseloff",
+			"score":79,
+			"enablementColor":"Yellow",
+			"description":" "
+		},
+		"sCards":{
+			"accountId":"STRING@0013000000AE8id",
+			"accountName":"STRING@Deb Shops, Inc.",
+			"userId":"STRING@Larry Joseloff",
+			"scoreCards":{
+				"proponents":10,
+				"platform":14,
+				"triageProcess":8,
+				"releaseAdoption":7,
+				"businessResources":20,
+				"developResources":20
+			}
+		},
+		"createdDate":"Jun 24, 2013 3:17:19 PM"
+	},
+	{
+		"score":{
+			"accountId":"0013000000AE9Oz",
+			"accountName":"The Jones Group (fka Jones Apparel Group, Inc.)",
+			"userId":"Adriana Bourgoin",
+			"score":80,
+			"enablementColor":"Yellow",
+			"description":" "
+		},
+		"sCards":{
+			"accountId":"STRING@0013000000AE9Oz",
+			"accountName":"STRING@The Jones Group (fka Jones Apparel Group, Inc.)",
+			"userId":"STRING@Adriana Bourgoin",
+			"scoreCards":{
+				"proponents":10,
+				"platform":10,
+				"triageProcess":10,
+				"releaseAdoption":10,
+				"businessResources":15,
+				"developResources":25
+			}
+		},
+		"createdDate":"Jun 24, 2013 3:17:19 PM"
+	},
+	{
+		"score":{
+			"accountId":"0013000000FzT6B",
+			"accountName":"Columbia Sportswear Company",
+			"userId":"Mara Crisafulli",
+			"score":80,
+			"enablementColor":"Yellow",
+			"description":" "
+		},
+		"sCards":{
+			"accountId":"STRING@0013000000FzT6B",
+			"accountName":"STRING@Columbia Sportswear Company",
+			"userId":"STRING@Mara Crisafulli",
+			"scoreCards":{
+				"proponents":8,
+				"platform":15,
+				"triageProcess":10,
+				"releaseAdoption":12,
+				"businessResources":10,
+				"developResources":25
+			}
+		},
+		"createdDate":"Jun 24, 2013 3:17:19 PM"
+	}
+]

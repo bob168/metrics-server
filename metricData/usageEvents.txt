@@ -1,0 +1,88 @@
+activate
+active
+actual data load
+add
+approve
+attach kpi
+auto-reverse
+change password
+check out
+clear data
+coa defaults
+copy
+copy - paste
+copy back
+copy topdown
+copyback
+data load
+dataload rule settings
+define data mappings
+definition
+delete
+deploy report
+display order
+download
+edit
+etl security
+file upload
+file upload failed
+fileupload
+fileupload failed
+filter dimensions
+forward
+global field map
+in process
+inactivate
+inactive
+inprocess
+join
+load data
+load data failed
+lock
+login
+logout
+map
+map entity
+mapentity
+mapping
+mapping lines
+mark complete
+mark not complete
+mass load
+mass update
+move
+navigation access
+on hold
+open
+performance band
+position add
+position delete
+post
+process
+refresh
+refresh compare scenario
+refresh reference account
+reject
+replace
+reset
+save
+save display order
+scenario access
+security
+send back
+send email
+setup
+sort
+split
+spread setup
+template mapping
+template save
+template setup
+transfer
+translation lines
+undo check out
+unlock
+unpost
+unposted
+userinput
+weights setup
